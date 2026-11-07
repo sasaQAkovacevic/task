@@ -1,2 +1,0 @@
-# task
-testing task
